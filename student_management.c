@@ -15,7 +15,7 @@ int main()
         printf("4. Get Student By Department\n");
         printf("5. Update Student By RollNo\n");
         printf("6. Delete Student By RollNo\n");
-        printf("7. Exit\n");
+        printf("7. Exit:\n");
         scanf("%d", &choice);
 
         fflush(stdin);
