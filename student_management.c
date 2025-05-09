@@ -11,10 +11,10 @@ int main()
         printf("Enter Choice\n");
         printf("1. Insert Student\n");
         printf("2. Get All Student\n");
-        printf("3. Get Student By RollNo\n");
+        printf("3. Get Student By Roll No\n");
         printf("4. Get Student By Department\n");
-        printf("5. Update Student By RollNo\n");
-        printf("6. Delete Student By RollNo\n");
+        printf("5. Update Student By Roll No\n");
+        printf("6. Delete Student By Roll No\n");
         printf("7. Exit:\n");
         scanf("%d", &choice);
 
