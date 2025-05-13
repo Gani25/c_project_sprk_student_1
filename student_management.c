@@ -43,13 +43,13 @@ int main()
 
             break;
         case 4:
-
+            getStudentsByDept();
             break;
         case 5:
-
+            updateByRollNo();
             break;
         case 6:
-
+            deleteByRollNo();
             break;
         case 7:
             printf("Thanks for using student management system.\nVisit again!\n");
